@@ -1,0 +1,20 @@
+{
+    "name": "acclimate/api",
+    "description": "Interoperable interfaces for components compatible with Acclimate adapters.",
+    "license": "MIT",
+    "keywords": ["adapter", "acclimate", "interface", "interoperable", "api", "container"],
+    "authors": [
+        {
+            "name": "Jeremy Lindblom",
+            "email": "jeremeamia@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "autoload.php"
+        ]
+    }
+}
