@@ -1,5 +1,4 @@
-# Acclimate APIs
+**This repo should no longer be used.**
 
-**Get Acclimated!**
-
-by [Jeremy Lindblom](https://twitter.com/jeremeamia)
+Please see [jeremeamia/acclimate-container](https://github.com/jeremeamia/acclimate-container)
+and [container-interop/container-interop](https://github.com/container-interop/container-interop).
